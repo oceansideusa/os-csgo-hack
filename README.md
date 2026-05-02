@@ -1,4 +1,4 @@
-# main file
+# BY zalshaibani (Alongside ProjectX)
 All in one external CSGO cheat written in python.
 It is probably undetected by VAC but im not reponsible for any future bans if you use this cheat in competitive. 
 Dont use silentaim with a high fov, its way to obvious and you are gonna get banned by VACNET
